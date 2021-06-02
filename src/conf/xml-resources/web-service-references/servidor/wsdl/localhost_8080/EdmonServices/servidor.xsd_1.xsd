@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is JAX-WS RI 2.2-hudson-740-. --><xs:schema xmlns:tns="http://Servicios/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://Servicios/">
+
+<xs:element name="getcorreo" type="tns:getcorreo" />
+
+<xs:element name="getcorreoResponse" type="tns:getcorreoResponse" />
+
+<xs:element name="getproyecto" type="tns:getproyecto" />
+
+<xs:element name="getproyectoResponse" type="tns:getproyectoResponse" />
+
+<xs:element name="getusuario" type="tns:getusuario" />
+
+<xs:element name="getusuarioResponse" type="tns:getusuarioResponse" />
+
+<xs:complexType name="getproyecto">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getproyectoResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getusuario">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getusuarioResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="getcorreo">
+<xs:sequence />
+</xs:complexType>
+
+<xs:complexType name="getcorreoResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

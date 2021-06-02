@@ -1,0 +1,8 @@
+<Estudios>
+    <Universidad nombre="UTH">
+        <Ubicacion nombre="Anillo" clase="matematicas" maestro="George" aula="1245">buena clase</Ubicacion>
+    </Universidad>
+    <Universidad nombre="Ceutec">
+        <Ubicacion nombre="proceres" clase="Base de datos" maestro="Elvin" aula="5810">Good English</Ubicacion>
+    </Universidad>
+</Estudios>

@@ -1,0 +1,25 @@
+<Proyectos>
+    <listaproyectos codigo_tarea="1" descripcion_tarea="terminar paredes" seccion="1" />
+    <listaproyectos codigo_tarea="21" descripcion_tarea="Lavar el carro" seccion="1" />
+    <listaproyectos codigo_tarea="41" descripcion_tarea="Usar Cajero" seccion="24" />
+    <listaproyectos codigo_tarea="42" descripcion_tarea="comprar ropa" seccion="23" />
+    <listaproyectos codigo_tarea="43" descripcion_tarea="Vender camas" seccion="34" />
+    <listaproyectos codigo_tarea="44" descripcion_tarea="sala cirujia" seccion="32" />
+    <listaproyectos codigo_tarea="45" descripcion_tarea="Graduacion" seccion="23" />
+    <listaproyectos codigo_tarea="46" descripcion_tarea="Programar Clases" seccion="35" />
+    <listaproyectos codigo_tarea="47" descripcion_tarea="prueba covid" seccion="34" />
+    <listaproyectos codigo_tarea="48" descripcion_tarea="Primera leccion" seccion="35" />
+    <listaproyectos codigo_tarea="49" descripcion_tarea="cambiar pianista" seccion="35" />
+    <listaproyectos codigo_tarea="50" descripcion_tarea="Semigraduado" seccion="35" />
+    <listaproyectos codigo_tarea="51" descripcion_tarea="Banco ficohsa" seccion="24" />
+    <listaproyectos codigo_tarea="52" descripcion_tarea="Mi piano" seccion="36" />
+    <listaproyectos codigo_tarea="53" descripcion_tarea="Retirar efectivo" seccion="37" />
+    <listaproyectos codigo_tarea="61" descripcion_tarea="Mascarillas malas" seccion="32" />
+    <listaproyectos codigo_tarea="58" descripcion_tarea="Pagina 30 del libro" seccion="39" />
+    <listaproyectos codigo_tarea="65" descripcion_tarea="Repaso jsp" seccion="39" />
+    <listaproyectos codigo_tarea="66" descripcion_tarea="Grabar sonido timbal" seccion="45" />
+    <listaproyectos codigo_tarea="64" descripcion_tarea="Examen fisico" seccion="42" />
+    <listaproyectos codigo_tarea="67" descripcion_tarea="Grabar Trompetas" seccion="45" />
+    <listaproyectos codigo_tarea="68" descripcion_tarea="Conseguir Dinero" seccion="46" />
+    <listaproyectos codigo_tarea="69" descripcion_tarea="Marca Toshiba" seccion="47" />
+</Proyectos>
